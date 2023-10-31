@@ -1,0 +1,26 @@
+.customer-navbar {
+  width: 100%;
+  height: 55px;
+  background-color: burlywood;
+  display: flex;
+  padding: 0 100px;
+  border-bottom: 1px solid burlywood;
+}
+.customer-navbar .left {
+  width: 30%;
+  height: 65px;
+  display: flex;
+  align-items: center;
+}
+.customer-navbar .right {
+  width: 70%;
+  height: 65px;
+  align-items: center;
+  display: flex;
+  justify-content: end;
+  gap: 20px;
+  font-size: 20px;
+}
+.customer-navbar .right p{
+    cursor: pointer;
+}

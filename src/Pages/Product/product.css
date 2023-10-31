@@ -1,0 +1,27 @@
+.product {
+  display: flex;
+}
+.product-container {
+  padding: 20px;
+  width: 100%;
+}
+.product-container h1 {
+  font-size: 40px;
+}
+.product-btns {
+  position: fixed;
+  right: 20px;
+  top: 150px;
+}
+.product-table {
+  margin-top: 40px;
+}
+.delete {
+  font-size: 20px;
+  color: red;
+  cursor: pointer;
+}
+.item-img {
+  width: 100px;
+  height: auto;
+}

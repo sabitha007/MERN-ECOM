@@ -1,0 +1,28 @@
+.subcategory {
+  display: flex;
+  
+}
+.subcategory-container {
+  padding: 20px;
+  width: 100%;
+}
+.subcategory-container h1 {
+  font-size: 40px;
+}
+.subcategory-btns {
+  display: flex;
+  justify-content: end;
+  margin-top: 20px;
+}
+.subcategory-table {
+  margin-top: 40px;
+}
+.delete {
+  font-size: 20px;
+  color: red;
+  cursor: pointer;
+}
+.item-img {
+  width: 100px;
+  height: auto;
+}

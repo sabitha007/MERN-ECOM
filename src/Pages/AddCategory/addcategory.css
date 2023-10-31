@@ -1,0 +1,16 @@
+.add-category {
+  padding: 50px 70px;
+}
+.add-category-btn {
+  margin-top: 40px;
+}
+.form label {
+  width: 500px;
+  margin-top: 50px;
+}
+.add-category .form label {
+  padding-bottom: 20px;
+}
+.add-category .category-btn {
+  display: block;
+}

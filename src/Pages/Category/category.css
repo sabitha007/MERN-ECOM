@@ -1,0 +1,27 @@
+.category {
+  display: flex;
+}
+.category-container {
+  padding: 20px;
+  width: 100%;
+}
+.category-container h1 {
+  font-size: 40px;
+}
+.category-btns {
+  display: flex;
+  justify-content: end;
+  margin-top: 20px;
+}
+.category-table {
+  margin-top: 40px;
+}
+.delete {
+  font-size: 20px;
+  color: red;
+  cursor: pointer;
+}
+.item-img {
+  width: 100px;
+  height: auto;
+}
